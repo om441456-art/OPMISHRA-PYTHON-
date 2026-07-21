@@ -1,0 +1,1 @@
+print("\nHello, OM! aj se python ka safar suru...😊\n")
